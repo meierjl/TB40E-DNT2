@@ -9,16 +9,16 @@ visibility pack
 
 #############
 	 
-track Mock-No-Flavo
+track 1-dedup
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel Mock No Flavo
-longLabel Mock No Flavo
+shortLabel 1 dedup
+longLabel 1 dedup
 	 
-track Mock-No-Flavo_FW
-parent Mock-No-Flavo
+track 1-dedup_FW
+parent 1-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/1-dedup-FW-FJ616285.1.bw
@@ -31,8 +31,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track Mock-No-Flavo_RV
-parent Mock-No-Flavo
+track 1-dedup_RV
+parent 1-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/1-dedup-RV-FJ616285.1.bw
@@ -47,16 +47,16 @@ maxHeightPixels 128:128:16
 
 #############
 	 
-track 12h-No-Flavo
+track 2-dedup
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 12h No Flavo
-longLabel 12h No Flavo
+shortLabel 2 dedup
+longLabel 2 dedup
 	 
-track 12h-No-Flavo_FW
-parent 12h-No-Flavo
+track 2-dedup_FW
+parent 2-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/2-dedup-FW-FJ616285.1.bw
@@ -69,8 +69,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track 12h-No-Flavo_RV
-parent 12h-No-Flavo
+track 2-dedup_RV
+parent 2-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/2-dedup-RV-FJ616285.1.bw
@@ -85,16 +85,16 @@ maxHeightPixels 128:128:16
 
 #############
 	 
-track 24h-No-Flavo
+track 3-dedup
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 24h No Flavo
-longLabel 24h No Flavo
+shortLabel 3 dedup
+longLabel 3 dedup
 	 
-track 24h-No-Flavo_FW
-parent 24h-No-Flavo
+track 3-dedup_FW
+parent 3-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/3-dedup-FW-FJ616285.1.bw
@@ -107,8 +107,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track 24h-No-Flavo_RV
-parent 24h-No-Flavo
+track 3-dedup_RV
+parent 3-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/3-dedup-RV-FJ616285.1.bw
@@ -123,16 +123,16 @@ maxHeightPixels 128:128:16
 
 #############
 	 
-track 48h-No-Flavo
+track 4-dedup
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 48h No Flavo
-longLabel 48h No Flavo
+shortLabel 4 dedup
+longLabel 4 dedup
 	 
-track 48h-No-Flavo_FW
-parent 48h-No-Flavo
+track 4-dedup_FW
+parent 4-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/4-dedup-FW-FJ616285.1.bw
@@ -145,8 +145,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track 48h-No-Flavo_RV
-parent 48h-No-Flavo
+track 4-dedup_RV
+parent 4-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/4-dedup-RV-FJ616285.1.bw
@@ -161,16 +161,16 @@ maxHeightPixels 128:128:16
 
 #############
 	 
-track 72h-No-Flavo
+track 5-dedup
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 72h No Flavo
-longLabel 72h No Flavo
+shortLabel 5 dedup
+longLabel 5 dedup
 	 
-track 72h-No-Flavo_FW
-parent 72h-No-Flavo
+track 5-dedup_FW
+parent 5-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/5-dedup-FW-FJ616285.1.bw
@@ -183,8 +183,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track 72h-No-Flavo_RV
-parent 72h-No-Flavo
+track 5-dedup_RV
+parent 5-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/5-dedup-RV-FJ616285.1.bw
@@ -199,16 +199,16 @@ maxHeightPixels 128:128:16
 
 #############
 	 
-track 72h-No-Flavo-dTAG
+track 6-dedup
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 72h No Flavo dTAG
-longLabel 72h No Flavo dTAG
+shortLabel 6 dedup
+longLabel 6 dedup
 	 
-track 72h-No-Flavo-dTAG_FW
-parent 72h-No-Flavo-dTAG
+track 6-dedup_FW
+parent 6-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/6-dedup-FW-FJ616285.1.bw
@@ -221,8 +221,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track 72h-No-Flavo-dTAG_RV
-parent 72h-No-Flavo-dTAG
+track 6-dedup_RV
+parent 6-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/6-dedup-RV-FJ616285.1.bw
@@ -237,16 +237,16 @@ maxHeightPixels 128:128:16
 
 #############
 	 
-track Mock-Flavo
+track 7-dedup
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel Mock Flavo
-longLabel Mock Flavo
+shortLabel 7 dedup
+longLabel 7 dedup
 	 
-track Mock-Flavo_FW
-parent Mock-Flavo
+track 7-dedup_FW
+parent 7-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/7-dedup-FW-FJ616285.1.bw
@@ -259,8 +259,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track Mock-Flavo_RV
-parent Mock-Flavo
+track 7-dedup_RV
+parent 7-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/7-dedup-RV-FJ616285.1.bw
@@ -275,21 +275,21 @@ maxHeightPixels 128:128:16
 
 #############
 	 
-track 12h-Flavo
+track 8-dedup
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 12h Flavo
-longLabel 12h Flavo
+shortLabel 8 dedup
+longLabel 8 dedup
 	 
-track 12h-Flavo_FW
-parent 12h-Flavo
+track 8-dedup_FW
+parent 8-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/8-dedup-FW-FJ616285.1.bw
-longLabel 12h Falvo
-shortLabel 12h Falvo
+longLabel 8 dedup
+shortLabel 8 dedup
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -297,8 +297,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track 12h-Flavo_RV
-parent 12h-Flavo
+track 8-dedup_RV
+parent 8-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/8-dedup-RV-FJ616285.1.bw
@@ -313,16 +313,16 @@ maxHeightPixels 128:128:16
 
 #############
 	 
-track 24h-Flavo
+track 9-dedup
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 24h Flavo
-longLabel 24h Flavo
+shortLabel 9 dedup
+longLabel 9 dedup
 	 
-track 24h-Flavo_FW
-parent 24h-Flavo
+track 9-dedup_FW
+parent 9-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/9-dedup-FW-FJ616285.1.bw
@@ -335,8 +335,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track 24h-Flavo_RV
-parent 24h-Flavo
+track 9-dedup_RV
+parent 9-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/9-dedup-RV-FJ616285.1.bw
@@ -351,16 +351,16 @@ maxHeightPixels 128:128:16
 
 #############
 	 
-track 48h-Flavo
+track 10-dedup
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 48h Flavo
-longLabel 48h Flavo
+shortLabel 10 dedup
+longLabel 10 dedup
 	 
-track 48h-Flavo_FW
-parent 48h-Flavo
+track 10-dedup_FW
+parent 10-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/10-dedup-FW-FJ616285.1.bw
@@ -373,8 +373,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track 48h-Flavo_RV
-parent 48h-Flavo
+track 10-dedup_RV
+parent 10-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/10-dedup-RV-FJ616285.1.bw
@@ -389,16 +389,16 @@ maxHeightPixels 128:128:16
 
 #############
 	 
-track 72h-Flavo
+track 11-dedup
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 72h Flavo
-longLabel 72h Flavo
+shortLabel 11 dedup
+longLabel 11 dedup
 	 
-track 72h-Flavo_FW
-parent 72h-Flavo
+track 11-dedup_FW
+parent 11-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/11-dedup-FW-FJ616285.1.bw
@@ -411,8 +411,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track 72h-Flavo_RV
-parent 72h-Flavo
+track 11-dedup_RV
+parent 11-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/11-dedup-RV-FJ616285.1.bw
@@ -427,16 +427,16 @@ maxHeightPixels 128:128:16
 
 #############
 	 
-track 72h-Flavo-dTAG
+track 12-dedup
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 72h Flavo dTAG
-longLabel 72h Flavo dTAG
+shortLabel 12 dedup
+longLabel 12 dedup
 	 
-track 72h-Flavo-dTAG_FW
-parent 72h-Flavo-dTAG
+track 12-dedup_FW
+parent 12-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/12-dedup-FW-FJ616285.1.bw
@@ -449,8 +449,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track 72h-Flavo-dTAG_RV
-parent 72h-Flavo-dTAG
+track 12-dedup_RV
+parent 12-dedup
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/12-dedup-RV-FJ616285.1.bw
