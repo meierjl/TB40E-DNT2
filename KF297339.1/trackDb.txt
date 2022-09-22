@@ -35,7 +35,7 @@ track 1_RV
 parent 1
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/1-dedup-RV-KF297339.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/1-dedup-RV-KF297339.1.bw
 longLabel Mock 
 shortLabel Mock 
 negateValues on
