@@ -9,19 +9,19 @@ visibility pack
 
 #############
 	 
-track 1-dedup-FW-FJ616285.1
+track 1-dedup
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel 1 dedup FW FJ616285.1
-longLabel 1 dedup FW FJ616285.1
+shortLabel 1 dedup
+longLabel 1 dedup
 	 
-track 1-dedup-FW-FJ616285.1
-parent 1-dedup-FW-FJ616285.1
+track 1-dedup_FW
+parent 1-dedup
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/1-dedup-FW-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/1-dedup-FW.bw
 longLabel Mock
 shortLabel Mock 
 negateValues off
@@ -31,11 +31,11 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track 1-dedup-RV-FJ616285.1
-parent 1-dedup-RV-FJ616285.1
+track 1-dedup_RV
+parent 1-dedup
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/1-dedup-RV-FJ616285.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/1-dedup-RV.bw
 longLabel Mock 
 shortLabel Mock 
 negateValues on
