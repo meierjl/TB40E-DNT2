@@ -35,7 +35,7 @@ track 13_RV
 parent 13
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/UL79/13-dedup-RV-KF297339.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/UL79/13-dedup-RV-KF297339.1.bw
 longLabel UL79F 72h
 shortLabel UL79F 72h
 negateValues on
@@ -73,7 +73,7 @@ track 14_RV
 parent 14
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/UL79/14-dedup-RV-KF297339.1.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/UL79/14-dedup-RV-KF297339.1.bw
 longLabel UL79F 72h dTAG
 shortLabel UL79F 72h dTAG
 negateValues on
