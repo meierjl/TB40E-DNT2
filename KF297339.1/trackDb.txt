@@ -8,6 +8,234 @@ shortLabel GenBank KF297339.1
 visibility pack
 
 #############
+	 
+track 1
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 1
+longLabel 1 
+	 
+track 1_FW
+parent 1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/1-dedup-FW-KF297339.1.bw
+longLabel Mock
+shortLabel Mock 
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 1_RV
+parent 1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/1-dedup-RV-KF297339.1.bw
+longLabel Mock 
+shortLabel Mock 
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 2
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 2
+longLabel 2 
+	 
+track 2_FW
+parent 2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/2-dedup-FW-KF297339.1.bw
+longLabel 12h
+shortLabel 12h
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 2_RV
+parent 2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/2-dedup-RV-KF297339.1.bw
+longLabel 12h
+shortLabel 12h
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 3
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 3 
+longLabel 3 
+	 
+track 3_FW
+parent 3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/3-dedup-FW-KF297339.1.bw
+longLabel 24h
+shortLabel 24h
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 3_RV
+parent 3
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/3-dedup-RV-KF297339.1.bw
+longLabel 24h
+shortLabel 24h
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 4
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 4 
+longLabel 4 
+	 
+track 4_FW
+parent 4
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/4-dedup-FW-KF297339.1.bw
+longLabel 48h
+shortLabel 48h
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 4_RV
+parent 4
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/4-dedup-RV-KF297339.1.bw
+longLabel 48h
+shortLabel 48h
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 5
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 5 
+longLabel 5 
+	 
+track 5_FW
+parent 5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/5-dedup-FW-KF297339.1.bw
+longLabel 72h
+shortLabel 72h
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 5_RV
+parent 5
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/5-dedup-RV-KF297339.1.bw
+longLabel 72h
+shortLabel 72h
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 6
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 6 
+longLabel 6
+	 
+track 6_FW
+parent 6
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/6-FW-KF297339.1.bw
+longLabel 72h dTAG
+shortLabel 72h dTAG
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 6_RV
+parent 6
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/6-dedup-RV-KF297339.1.bw
+longLabel 72h dTAG
+shortLabel 72h dTAG
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
 	 	 
 track 13
 compositeTrack on
