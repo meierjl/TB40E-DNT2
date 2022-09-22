@@ -1,1 +1,50 @@
+track KF297339.1
+type bigGenePred
+group map
+priority 1
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E/master/KF297339.1/KF297339.1.bb
+longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
+shortLabel GenBank KF297339.1
+visibility pack
+
+###########
+
+track IE2F_No_dTag_Exp1_Norm
+compositeTrack on
+type bigWig 0 1000
+group IE2-FKBP
+priority 7
+visibility full
+shortLabel Exp2 72h IE2F
+longLabel PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP
+
+track IE2F_No_dTag_Exp1_norm_FW
+parent IE2F_No_dTag_Exp1_Norm on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-SIC-FW.bw
+longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP Rep 1
+shortLabel F Exp2 72h IE2F
+negateValues off
+color 113, 35, 124
+altColor 113, 35, 124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track IE2F_No_dTag_Exp1_Norm_RV
+parent IE2F_No_dTag_Exp1_Norm on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-SIC-RV.bw
+longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP Rep 1
+shortLabel R Exp2 72h IE2F
+negateValues on
+color 113, 35, 124
+altColor 113, 35, 124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
 
