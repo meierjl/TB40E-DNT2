@@ -1,0 +1,466 @@
+track KF297339.1
+type bigGenePred
+group map
+priority 1
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/KF297339.1.bb
+longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
+shortLabel GenBank KF297339.1
+visibility pack
+
+#############
+	 
+track Mock-No-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Mock No Flavo
+longLabel Mock No Flavo
+	 
+track Mock-No-Flavo_FW
+parent Mock-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/1-dedup-FW-FJ616285.1.bw
+longLabel Mock
+shortLabel Mock 
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track Mock-No-Flavo_RV
+parent Mock-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/1-dedup-RV-FJ616285.1.bw
+longLabel Mock 
+shortLabel Mock 
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 12h-No-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 12h No Flavo
+longLabel 12h No Flavo
+	 
+track 12h-No-Flavo_FW
+parent 12h-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/2-dedup-FW-FJ616285.1.bw
+longLabel 12h
+shortLabel 12h
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 12h-No-Flavo_RV
+parent 12h-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/2-dedup-RV-FJ616285.1.bw
+longLabel 12h
+shortLabel 12h
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 24h-No-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 24h No Flavo
+longLabel 24h No Flavo
+	 
+track 24h-No-Flavo_FW
+parent 24h-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/3-dedup-FW-FJ616285.1.bw
+longLabel 24h
+shortLabel 24h
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 24h-No-Flavo_RV
+parent 24h-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/3-dedup-RV-FJ616285.1.bw
+longLabel 24h
+shortLabel 24h
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 48h-No-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 48h No Flavo
+longLabel 48h No Flavo
+	 
+track 48h-No-Flavo_FW
+parent 48h-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/4-dedup-FW-FJ616285.1.bw
+longLabel 48h
+shortLabel 48h
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 48h-No-Flavo_RV
+parent 48h-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/4-dedup-RV-FJ616285.1.bw
+longLabel 48h
+shortLabel 48h
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 72h-No-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 72h No Flavo
+longLabel 72h No Flavo
+	 
+track 72h-No-Flavo_FW
+parent 72h-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/5-dedup-FW-FJ616285.1.bw
+longLabel 72h
+shortLabel 72h
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h-No-Flavo_RV
+parent 72h-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/5-dedup-RV-FJ616285.1.bw
+longLabel 72h
+shortLabel 72h
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 72h-No-Flavo-dTAG
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 72h No Flavo dTAG
+longLabel 72h No Flavo dTAG
+	 
+track 72h-No-Flavo-dTAG_FW
+parent 72h-No-Flavo-dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/6-dedup-FW-FJ616285.1.bw
+longLabel 72h dTAG
+shortLabel 72h dTAG
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h-No-Flavo-dTAG_RV
+parent 72h-No-Flavo-dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/6-dedup-RV-FJ616285.1.bw
+longLabel 72h dTAG
+shortLabel 72h dTAG
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track Mock-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Mock Flavo
+longLabel Mock Flavo
+	 
+track Mock-Flavo_FW
+parent Mock-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/7-dedup-FW-FJ616285.1.bw
+longLabel Mock Flavo
+shortLabel Mock Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track Mock-Flavo_RV
+parent Mock-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/7-dedup-RV-FJ616285.1.bw
+longLabel Mock Flavo
+shortLabel Mock Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 12h-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 12h Flavo
+longLabel 12h Flavo
+	 
+track 12h-Flavo_FW
+parent 12h-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/8-dedup-FW-FJ616285.1.bw
+longLabel 12h Falvo
+shortLabel 12h Falvo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 12h-Flavo_RV
+parent 12h-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/8-dedup-RV-FJ616285.1.bw
+longLabel 12h Flavo
+shortLabel 12h Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 24h-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 24h Flavo
+longLabel 24h Flavo
+	 
+track 24h-Flavo_FW
+parent 24h-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/9-dedup-FW-FJ616285.1.bw
+longLabel 24h Flavo
+shortLabel 24h Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 24h-Flavo_RV
+parent 24h-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/9-dedup-RV-FJ616285.1.bw
+longLabel 24h Flavo
+shortLabel 24h Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 48h-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 48h Flavo
+longLabel 48h Flavo
+	 
+track 48h-Flavo_FW
+parent 48h-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/10-dedup-FW-FJ616285.1.bw
+longLabel 48h Flavo
+shortLabel 48h Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 48h-Flavo_RV
+parent 48h-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/10-dedup-RV-FJ616285.1.bw
+longLabel 48h Flavo
+shortLabel 48h Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 72h-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 72h Flavo
+longLabel 72h Flavo
+	 
+track 72h-Flavo_FW
+parent 72h-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/11-dedup-FW-FJ616285.1.bw
+longLabel 72h Flavo
+shortLabel 72h Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h-Flavo_RV
+parent 72h-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/11-dedup-RV-FJ616285.1.bw
+longLabel 72h Flavo
+shortLabel 72h Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 72h-Flavo-dTAG
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 72h Flavo dTAG
+longLabel 72h Flavo dTAG
+	 
+track 72h-Flavo-dTAG_FW
+parent 72h-Flavo-dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/12-dedup-FW-FJ616285.1.bw
+longLabel 72h Flavo dTAG
+shortLabel 72h Flavo dTAG
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 72h-Flavo-dTAG_RV
+parent 72h-Flavo-dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/ KF297339.1/IE2F/12-dedup-RV-FJ616285.1.bw
+longLabel 72h Flavo dTAG
+shortLabel 72h Flavo dTAG
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
