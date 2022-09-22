@@ -22,7 +22,7 @@ track IE2F_No_dTag_Exp1_norm_FW
 parent IE2F_No_dTag_Exp1_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-SIC-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-SIC-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP Rep 1
 shortLabel F Exp2 72h IE2F
 negateValues off
@@ -36,7 +36,7 @@ track IE2F_No_dTag_Exp1_Norm_RV
 parent IE2F_No_dTag_Exp1_Norm on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-SIC-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/2019-03-13-HFF-TB40e-IE2F-No-dTag-Exp1-KF297339.1-SIC-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40-IE2-FKBP Rep 1
 shortLabel R Exp2 72h IE2F
 negateValues on
