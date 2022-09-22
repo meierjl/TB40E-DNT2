@@ -17,8 +17,8 @@ visibility full
 shortLabel 1 
 longLabel 1 
 	 
-track 1-dedup_FW
-parent 1-dedup
+track 1_FW
+parent 1
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/IE2F/1-dedup-FW-FJ616285.1.bw
