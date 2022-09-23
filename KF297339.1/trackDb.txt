@@ -540,3 +540,78 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+ 
+track 15
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 15
+longLabel 15
+	 
+track 15_FW
+parent 15
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/UL79/15-dedup-FW-KF297339.1.bw
+longLabel UL79F 72h Flavo
+shortLabel UL79F 72h Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 15_RV
+parent 15
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/UL79/15-dedup-RV-KF297339.1.bw
+longLabel UL79F 72h Flavo
+shortLabel UL79F 72h Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track 16
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel 16
+longLabel 16
+	 
+track 16_FW
+parent 16
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/UL79/16-dedup-FW-KF297339.1.bw
+longLabel UL79F 72h Flavo dTAG
+shortLabel UL79F 72h Flavo dTAG
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track 16_RV
+parent 16
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/UL79/16-dedup-RV-KF297339.1.bw
+longLabel UL79F 72h Flavo dTAG
+shortLabel UL79F 72h Flavo dTAG
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
